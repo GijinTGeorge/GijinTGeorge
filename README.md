@@ -1,5 +1,7 @@
 ## Hi there 👋
+![Hello Banner](./assets/![hellobanner (1)](https://github.com/user-attachments/assets/47eda5f6-57c6-4cdb-8208-2f717ab4c551)
 
+)
 <!--
 **GijinTGeorge/GijinTGeorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
